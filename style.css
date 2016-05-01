@@ -1,0 +1,54 @@
+.navbar >.container .navbar-brand {
+	margin-left: 0;
+}
+
+#count * {
+    display: block;
+    margin: 7px 4px 0 4px;
+}
+
+
+.label {
+	font-size: 100%;
+	width: 37px;
+	
+}
+
+.label-info {
+	background-color: #428bca;
+	border-color: #357ebd;
+}
+
+input[type=number] {
+	width: 33px;
+	height: 23px;
+	outline: none;
+	border: 0;
+}
+
+.plus {
+	margin-right: 10px;
+}
+
+button {
+	border-radius: 5px;
+}
+
+h2 {
+	font-family: Arial;
+	color: #545454;
+}
+
+span {
+	font-size: 20px;
+	cursor: pointer;
+	outline: 0;
+	-webkit-touch-callout: none; /* iOS Safari */
+	  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+	  -khtml-user-select: none;    /* Konqueror */
+	  -moz-user-select: none;      /* Firefox */
+	  -ms-user-select: none;       /* Internet Explorer/Edge */
+	  user-select: none;           /* Non-prefixed version, currently
+	                                  not supported by any browser */
+	}
+}
